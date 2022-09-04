@@ -59,13 +59,14 @@ This is Traffic light system to control and organize Traffic between  cars and h
 ### case 2
 
 #### During green led
-<p>This case happen when green led car traffic light is on at same time pedestrian button presses and at the end of this case return to normal mode again </p>
+<p>This case happen when green led car traffic light is on at same time pedestrian button pressed and at the end of this case return to normal mode again </p>
 <p align= "center">
    <img src = "https://user-images.githubusercontent.com/77234053/188309902-0aebddab-62f2-4ecd-a59a-65b7ede5299b.gif">
    </p>
 
 #### During yellow led
-<p>This case happen when yellow led car traffic light is on at same time pedestrian button presses and at the end of this case return to normal mode again </p>
-<p align= "center">
-   <img src="https://user-images.githubusercontent.com/77234053/188310248-ad3cb7fa-4038-42eb-a984-31f803127208.gif">
+<p>This case happen when yellow led car traffic light is on at same time pedestrian button pressed and at the end of this case return to normal mode again</p>
+<p align ="center">
+   <img src = "https://user-images.githubusercontent.com/77234053/188310248-ad3cb7fa-4038-42eb-a984-31f803127208.gif">
    </p>
+   
