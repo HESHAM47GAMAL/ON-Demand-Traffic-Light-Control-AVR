@@ -1,6 +1,6 @@
 # ON-Demand-Traffic-Light-Control-AVR
 - [Description](#Description)
-- [System Layer architecture](#System-layer-architecture)
+- [System Layer architecture & Driver](#System-layer-architecture)
 - [System Flowchart](#System-Flowchart)
 
 ## Description
