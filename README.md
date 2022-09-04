@@ -19,6 +19,6 @@ This is Traffic light system to control and organize Traffic between  cars and h
   
 ## IDE & Text editor
 <p>I use Microchip studio & Notpad++ </p>
-<p></p>
+<p>You can open project as If you have Microchip studio click on on_demand_traffic_light_control.atsln</p>
 
 
