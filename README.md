@@ -22,7 +22,7 @@ This is Traffic light system to control and organize Traffic between  cars and h
 ## IDE
 <p>Micrchip studio, Notepad++ and simulide</p>
 <p>I use Microchip studio & Notpad++ for writting code</p>
-<p>I use simulide to make simulation for project</p>
+<p>I use simulide to make simulation for project(easy to use and anyone can download without crack)</p>
 <p>You can open project as If you have Microchip studio click on on_demand_traffic_light_control.atsln</p>
 
 ## Schematic Capture
