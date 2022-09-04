@@ -47,3 +47,9 @@ This is Traffic light system to control and organize Traffic between  cars and h
 <p align= "center">
    <img src="https://user-images.githubusercontent.com/77234053/188307796-bda55e1d-4c92-490f-9a5a-9b0f1a491dfb.gif">
    </p>
+  
+### Case 1
+<p>This case happen when red led on car traffic light on and at same time pedestrian button pressed and at the end of this case return to noraml mode again</p>
+<p align="center>
+   <img src="https://user-images.githubusercontent.com/77234053/188309473-7beecace-c07b-4248-b304-9615c6b56e80.gif">
+   </p>
