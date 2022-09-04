@@ -5,6 +5,10 @@
 - [IDE](#IDE)
 - [Schematic capture](#Schematic-capture)
    - [Main Components](#Main-Component)
+- [Demo](#Demo)
+   - [Normal traffic light Mode](#Normal-traffic-light-Mode)
+   - [Case 1](#Case-1)
+   - [Case 2](#Case-2)
 
 ## Description
 This is Traffic light system to control and organize Traffic between  cars and human as traffic light normal flow happen (green then  yellow then red then yellow then green and repeat this flow) until  there are pedestrian want to cross road then will press button and  interrupt car traffic light (depend on case 1 and case 2) and pedestrian traffic light will flow until end then return to car traffic  light flow until any pedestrian press button.
@@ -37,4 +41,9 @@ This is Traffic light system to control and organize Traffic between  cars and h
 - button
 - LCD 16*2
 
-
+## Demo
+### Normal traffic light Mode
+<p>Normal mode for car traffic light and this mode work until button pedestrian not pressed</p>
+<p align= "center">
+   <GIF src="https://user-images.githubusercontent.com/77234053/188307796-bda55e1d-4c92-490f-9a5a-9b0f1a491dfb.gif">
+   </p>
