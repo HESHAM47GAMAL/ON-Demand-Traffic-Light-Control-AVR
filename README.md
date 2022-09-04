@@ -30,7 +30,7 @@ This is Traffic light system to control and organize Traffic between  cars and h
   <img src="https://user-images.githubusercontent.com/77234053/188305809-9b66014c-6ee4-41af-ace5-7d171ac651ba.png">
   </p>
   
-## Main Component
+### Main Component
 #### Main Component
 
 
