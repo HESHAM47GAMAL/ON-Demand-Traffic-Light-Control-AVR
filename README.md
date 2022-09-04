@@ -65,3 +65,7 @@ This is Traffic light system to control and organize Traffic between  cars and h
    </p>
 
 #### During yellow led
+<p>This case happen when yellow led car traffic light is on at same time pedestrian button presses and at the end of this case return to normal mode again </p>
+<p align= "center">
+   <img src="https://user-images.githubusercontent.com/77234053/188310248-ad3cb7fa-4038-42eb-a984-31f803127208.gif">
+   </p>
