@@ -9,6 +9,8 @@
    - [Normal traffic light Mode](#Normal-traffic-light-Mode)
    - [Case 1](#Case-1)
    - [Case 2](#Case-2)
+      -[During green led](#During-green-led)
+      -[During yellow-led](#During-yellow-led)
 
 ## Description
 This is Traffic light system to control and organize Traffic between  cars and human as traffic light normal flow happen (green then  yellow then red then yellow then green and repeat this flow) until  there are pedestrian want to cross road then will press button and  interrupt car traffic light (depend on case 1 and case 2) and pedestrian traffic light will flow until end then return to car traffic  light flow until any pedestrian press button.
@@ -49,7 +51,17 @@ This is Traffic light system to control and organize Traffic between  cars and h
    </p>
   
 ### Case 1
-<p>This case happen when red led on car traffic light on and at same time pedestrian button pressed and at the end of this case return to noraml mode again</p>
+<p>This case happen when red led car traffic light is on and at same time pedestrian button pressed and at the end of this case return to noraml mode again</p>
 <p align="center">
    <img src="https://user-images.githubusercontent.com/77234053/188309473-7beecace-c07b-4248-b304-9615c6b56e80.gif">
    </p>
+   
+### case 2
+
+#### During green led
+<p>This case happen when green led car traffic light is on at same time pedestrian button presses and at the end of this case return to normal mode again </p>
+<p align= "center">
+   <img src = "https://user-images.githubusercontent.com/77234053/188309902-0aebddab-62f2-4ecd-a59a-65b7ede5299b.gif">
+   </p>
+
+#### During yellow led
