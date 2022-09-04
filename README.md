@@ -45,5 +45,5 @@ This is Traffic light system to control and organize Traffic between  cars and h
 ### Normal traffic light Mode
 <p>Normal mode for car traffic light and this mode work until button pedestrian not pressed</p>
 <p align= "center">
-   <GIF src="https://user-images.githubusercontent.com/77234053/188307796-bda55e1d-4c92-490f-9a5a-9b0f1a491dfb.gif">
+   <img src="https://user-images.githubusercontent.com/77234053/188307796-bda55e1d-4c92-490f-9a5a-9b0f1a491dfb.gif">
    </p>
