@@ -18,7 +18,8 @@ This is Traffic light system to control and organize Traffic between  cars and h
   </p>
   
 ## IDE & Text editor
-<p>I use Microchip studio & Notpad++ </p>
+<p>I use Microchip studio & Notpad++ for writting code</p>
+<p>simulide use to make simulation for project</p>
 <p>You can open project as If you have Microchip studio click on on_demand_traffic_light_control.atsln</p>
 
 
