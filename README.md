@@ -31,6 +31,10 @@ This is Traffic light system to control and organize Traffic between  cars and h
   </p>
   
 ### Main Component
-#### Main Component
+-atmega32
+-green, red and yellow leds
+-resistor
+-button
+-LCD 16*2
 
 
