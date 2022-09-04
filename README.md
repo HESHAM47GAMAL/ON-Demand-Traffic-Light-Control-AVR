@@ -12,6 +12,8 @@ This is Traffic light system to control and organize Traffic between  cars and h
   </p>
 
 ## System Flowchart
-<System_flowchart_img src=""
+<p align="center">
+<System_flowchart_img src="https://user-images.githubusercontent.com/77234053/188304878-bf00f245-b752-433a-88f7-e689bd2d3c1e.png">
+  </p>
 
 
